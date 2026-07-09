@@ -54,4 +54,4 @@
 ![-Images](Images/9.png)
 
 4. After a few minutes, check to see if your Environment has been terminated, then check for confirmation.
-5. ![-Images](Images/10.png)
+ ![-Images](Images/10.png)
